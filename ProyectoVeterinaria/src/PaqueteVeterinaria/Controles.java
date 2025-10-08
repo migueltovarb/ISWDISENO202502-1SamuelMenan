@@ -2,7 +2,7 @@ package PaqueteVeterinaria;
 
 public class Controles {
     private String fecha;
-    private String tipo; // vacuna, chequeo, desparasitación, etc.
+    private String tipo; 
     private String observaciones;
 
     public Controles(String fecha, String tipo, String observaciones) {
@@ -37,3 +37,4 @@ public class Controles {
 
 
 }
+
